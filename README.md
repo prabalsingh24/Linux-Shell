@@ -2,7 +2,7 @@
 
 - run "make"
 
-- execute by using "./BansalJi"
+- execute by using "./prabal"
 
 - type "quit" or "exit" to exit the shell
 
